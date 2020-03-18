@@ -2,6 +2,6 @@
 
 $namen = ["sam", "kimberly", "henry", "nour", "daan"];
 
- foreach ($namen as $naam){
+foreach ($namen as $naam){
      echo $naam;
- }
+}
